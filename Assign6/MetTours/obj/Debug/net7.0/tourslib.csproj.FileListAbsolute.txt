@@ -1,0 +1,11 @@
+/home/prerana/CodingSamples/DotnetAssign/Assign6/MetTours/bin/Debug/net7.0/tourslib.deps.json
+/home/prerana/CodingSamples/DotnetAssign/Assign6/MetTours/bin/Debug/net7.0/tourslib.dll
+/home/prerana/CodingSamples/DotnetAssign/Assign6/MetTours/bin/Debug/net7.0/tourslib.pdb
+/home/prerana/CodingSamples/DotnetAssign/Assign6/MetTours/obj/Debug/net7.0/tourslib.GeneratedMSBuildEditorConfig.editorconfig
+/home/prerana/CodingSamples/DotnetAssign/Assign6/MetTours/obj/Debug/net7.0/tourslib.AssemblyInfoInputs.cache
+/home/prerana/CodingSamples/DotnetAssign/Assign6/MetTours/obj/Debug/net7.0/tourslib.AssemblyInfo.cs
+/home/prerana/CodingSamples/DotnetAssign/Assign6/MetTours/obj/Debug/net7.0/tourslib.csproj.CoreCompileInputs.cache
+/home/prerana/CodingSamples/DotnetAssign/Assign6/MetTours/obj/Debug/net7.0/tourslib.dll
+/home/prerana/CodingSamples/DotnetAssign/Assign6/MetTours/obj/Debug/net7.0/refint/tourslib.dll
+/home/prerana/CodingSamples/DotnetAssign/Assign6/MetTours/obj/Debug/net7.0/tourslib.pdb
+/home/prerana/CodingSamples/DotnetAssign/Assign6/MetTours/obj/Debug/net7.0/ref/tourslib.dll
